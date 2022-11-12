@@ -1,4 +1,4 @@
-<h2>Poemas</h2>
+  <h2>Poemas</h2>
 <h1>Los mejores poemas de Octavio Paz</h1>
 <p><i>Aquí tienes mi selección de los mejores poemas de Octavio Paz. <br> Seguramente falta alguno. Ayúdame a completar y mejorar la lista con tus comentarios. </i></p> <br>
 <p> <b>Entre ir y quedarse</b></p> <br>
@@ -32,3 +32,5 @@ yo me quedo y me voy: soy una pausa.</p> <br>
     <li>tercer elemento</li>
     <li>cuarto elemento</li>
 </ul>
+
+![image](https://user-images.githubusercontent.com/113805099/201497902-78f5207b-d2d8-4b38-ab4e-a7e111191d26.png)
