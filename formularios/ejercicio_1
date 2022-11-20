@@ -104,6 +104,7 @@
     ORDEN DE LIMONES<input type="checkbox" value="orden de limones" name="orden de limones"> <br>
     ORDEN DE AGUACATES<input type="checkbox" value="orden de aguacates" name="orden de aguacates"> <br>
     <input type="submit" value="ordena ya"> <input type="reset" value="reiniciar">
+    PARA CUANDO ES TU ORDEN <input type="date"> <br>
 <!-- el atributo reset es para limpiar la orden y empezar de nuevo -->
 
 
