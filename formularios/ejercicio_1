@@ -113,5 +113,6 @@
      ESCOJE UN COLOR <input type="color"> <br>
      PASSWORD <input type="password"> <br>
      SELECCIONA EL ARCHIVO QUE QUIERAS ENVIAR <input type="file">
+    |</form>
 </body>
 </html>
