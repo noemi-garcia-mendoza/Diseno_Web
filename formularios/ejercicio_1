@@ -108,5 +108,10 @@
 
 
     </form>
+    <!-- otros caracteristicas de los formatos -->
+<form action="color">
+     ESCOJE UN COLOR <input type="color"> <br>
+     PASSWORD <input type="password"> <br>
+     SELECCIONA EL ARCHIVO QUE QUIERAS ENVIAR <input type="file">
 </body>
 </html>
