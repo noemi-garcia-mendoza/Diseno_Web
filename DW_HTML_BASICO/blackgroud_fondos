@@ -1,0 +1,55 @@
+FORMATO EN HTML PARA UN FONDO DEGRADADO
+      <!DOCTYPE html>
+      <html lang="en">
+      <head>
+          <meta charset="UTF-8">
+          <meta http-equiv="X-UA-Compatible" content="IE=edge">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>fondo</title>
+          <link rel="stylesheet" href="css/estilos.css">
+      </head>
+      <body>
+          <h1>FONDO DE IMAGEN</h1>
+      </body>
+      </html>
+  
+  FORMATOS Y ETIQUETAS EN CSS
+  body{
+    height: 100vh;
+    background: linear-gradient(blue, red, yellow, pink  );
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+ESTA ES PARA UN FONDO CON IMAGEN
+FORMATO DE HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fondo</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+    <h1>FONDO DE IMAGEN</h1>
+</body>
+</html>
+
+LAS ETIQUETAS EN HTML SON:
+body{
+    height: 100vh;
+    /* ESTO ES PARA UN FONDO CON IMAGEN*/
+    background: url(https://www.politraining.upiita.ipn.mx/wp-content/uploads/2019/10/pilares-sqlogo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
